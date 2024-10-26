@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "title": "Full Stack Developer",
+    "price": 0,
+    "category": "free",
+    "image": "https://picsum.photos/200/301"
+  },
+  {
+    "id": 2,
+    "name": "Jane Doe",
+    "title": "Frontend Developer",
+    "price": 0,
+    "category": "free",
+    "image": "https://picsum.photos/200/302"
+  },
+  {
+    "id": 3,
+    "name": "Richard Brown",
+    "title": "Backend Developer",
+    "price": 500,
+    "category": "paid",
+    "image": "https://picsum.photos/200/303"
+  },
+  {
+    "id": 4,
+    "name": "David Smith",
+    "title": "DevOps Engineer",
+    "price": 600,
+    "category": "paid",
+    "image": "https://picsum.photos/200/304"
+  },
+  {
+    "id": 5,
+    "name": "Michael Davis",
+    "title": "Artificial Intelligence Engineer",
+    "price": 800,
+    "category": "paid",
+    "image": "https://picsum.photos/200/305"
+  },
+  {
+    "id": 6,
+    "name": "Emily Chen",
+    "title": "Cloud Architect",
+    "price": 900,
+    "category": "paid",
+    "image": "https://picsum.photos/200/306"
+  },
+  {
+    "id": 7,
+    "name": "Nicholas Lee",
+    "title": "Database Administrator",
+    "price": 1000,
+    "category": "paid",
+    "image": "https://picsum.photos/200/307"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Patel",
+    "title": "Information Security Manager",
+    "price": 1100,
+    "category": "paid",
+    "image": "https://picsum.photos/200/308"
+  },
+  {
+    "id": 9,
+    "name": "Olivia Kim",
+    "title": "Network Engineer",
+    "price": 1200,
+    "category": "paid",
+    "image": "https://picsum.photos/200/309"
+  }
+]
